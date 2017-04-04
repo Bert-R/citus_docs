@@ -4,7 +4,7 @@ Architecture
 ############
 
 At a high level, Citus distributes the data across a cluster of commodity servers.
-Incoming SQL queries are then parallel processed across these servers.
+Incoming SQL queries are then parallelly processed across these servers.
 
 .. image:: ../images/citus-basic-arch.png
 
